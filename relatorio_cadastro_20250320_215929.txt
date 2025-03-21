@@ -1,0 +1,28 @@
+==================================================
+RELATÓRIO DE CADASTRO DE NOTAS FISCAIS
+Data/Hora: 20/03/2025 21:59:29
+==================================================
+
+ESTATÍSTICAS DE CADASTRO:
+
+Notas cadastradas com sucesso: 0
+Notas já cadastradas no sistema: 0
+Notas expiradas: 0
+Notas com erro: 6
+Total de notas processadas: 6
+
+Taxa de sucesso: 0.00%
+Taxa de já cadastradas: 0.00%
+Taxa de expiradas: 0.00%
+Taxa de erro: 100.00%
+
+NOTAS PENDENTES COM ERRO:
+
+1. 52181027887897000173650010000001331000001339
+2. 12345678901123456789011234567890112345678901
+3. 12345678901123456789011234567890112345678901
+
+Total de notas pendentes: 3
+
+==================================================
+Fim do Relatório
